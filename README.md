@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/Sverker"><img src="https://api.daily.dev/devcards/93d936b7deb94a8da00925616b115853.png?r=1yp" width="400" alt="Sverker's Dev Card"/></a> 
+<a href="https://app.daily.dev/Sverker"><img src="https://github.com/SveRKeR92/sverker92/blob/main/devcard.svg" width="400" alt="Sverker's Dev Card"/></a> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SveRKeR92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
