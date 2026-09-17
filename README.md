@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/Sverker"><img src="https://github.com/SveRKeR92/sverker92/blob/main/devcard.svg" width="400" alt="Sverker's Dev Card"/></a> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SveRKeR92&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=SveRKeR92)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SveRKeR92&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
