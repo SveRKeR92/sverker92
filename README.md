@@ -2,10 +2,6 @@
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=SveRKeR92)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SveRKeR92&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<!--
 **SveRKeR92/sverker92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
